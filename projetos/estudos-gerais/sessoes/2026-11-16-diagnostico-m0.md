@@ -4,7 +4,7 @@
 - Projeto: estudos-gerais
 - Data e fuso: 2026-11-16
 - Versão do método (`metodo/CHANGELOG.md`): v3.0
-- Modalidade: a confirmar (não informada). Ambiente: nuvem (Claude Code na web)
+- Modalidade: computador (notebook Windows, declarado). Ambiente: nuvem (Claude Code na web)
 - Tempo estudado (perguntado no encerramento):
 - Módulo e tópico: M0, diagnóstico por bloco
 - Objetivo único: estimar o nível real por bloco de `metodo/CONCEITOS.md` e escolher o primeiro tópico.
@@ -16,3 +16,4 @@
 ## Perguntas do diagnóstico
 | Bloco | Pergunta | Resposta do estudante (resumo) | Classificação |
 | --- | --- | --- | --- |
+| Ambiente | Onde está e o que tem? | Notebook Windows, 16 GB RAM, JDK 21 (incerto), Docker rodando. Declarado, não verificado. | n/a (levantamento) |

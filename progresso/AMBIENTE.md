@@ -13,7 +13,8 @@ Fatos verificados em 16/11/2026 na sessão de configuração do repositório (n�
 
 ## Notebook e PC (local)
 
-- Não levantados. Preencher na primeira sessão: SO, CPU, RAM, Docker, JDK, Maven/Gradle, editor.
+- Notebook (declarado em 16/11/2026, não verificado): Windows, 16 GB de RAM, JDK 21 ("acho"), Docker rodando. Faltam: CPU, Maven/Gradle, editor, versão exata do JDK (`java -version`) e do Docker (`docker version`).
+- PC: não levantado.
 - Sugestão: laboratórios de M6, M10, M11 e M13 no PC local com este mesmo repositório.
 
 ## Acesso ao repositório

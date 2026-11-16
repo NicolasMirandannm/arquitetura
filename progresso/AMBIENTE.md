@@ -13,7 +13,7 @@ Fatos verificados em 16/11/2026 na sessão de configuração do repositório (n�
 
 ## Notebook e PC (local)
 
-- Notebook (declarado em 16/11/2026, não verificado): Windows, 16 GB de RAM, JDK 21 ("acho"), Docker rodando. Faltam: CPU, Maven/Gradle, editor, versão exata do JDK (`java -version`) e do Docker (`docker version`).
+- Notebook (declarado em 16/11/2026, não verificado): Windows, 16 GB de RAM (declarado). Saída colada pelo estudante em 16/11/2026: Temurin OpenJDK 21.0.13 LTS (terminal UCRT64/MSYS2) e Docker Desktop 4.98.0 (engine 29.9.2, daemon respondendo). Faltam: CPU, Maven/Gradle, editor. Obs.: o `java` visto é o do shell UCRT64; confirmar que é o mesmo no PowerShell/IDE.
 - PC: não levantado.
 - Sugestão: laboratórios de M6, M10, M11 e M13 no PC local com este mesmo repositório.
 

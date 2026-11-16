@@ -17,3 +17,4 @@
 | Bloco | Pergunta | Resposta do estudante (resumo) | Classificação |
 | --- | --- | --- | --- |
 | Ambiente | Onde está e o que tem? | Notebook Windows, 16 GB RAM, JDK 21 (incerto), Docker rodando. Declarado, não verificado. | n/a (levantamento) |
+| Fundamentos (M1) | O time pede "rápido e escalável" no sistema de pedidos. Como transformar isso em requisitos testáveis? | "Não sei". | não respondeu |

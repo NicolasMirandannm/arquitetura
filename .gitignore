@@ -1,0 +1,18 @@
+# Java / build
+target/
+build/
+.gradle/
+*.class
+*.jar
+# IDEs
+.idea/
+*.iml
+.vscode/
+# Segredos e ambiente local
+.env
+*.pem
+*.key
+application-local.*
+# Sistema
+.DS_Store
+Thumbs.db

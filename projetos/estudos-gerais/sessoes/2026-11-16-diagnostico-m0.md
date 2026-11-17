@@ -18,3 +18,4 @@
 | --- | --- | --- | --- |
 | Ambiente | Onde está e o que tem? | Notebook Windows, 16 GB RAM, JDK 21 (incerto), Docker rodando. Declarado, não verificado. | n/a (levantamento) |
 | Fundamentos (M1) | O time pede "rápido e escalável" no sistema de pedidos. Como transformar isso em requisitos testáveis? | "Não sei". | não respondeu |
+| Fundamentos (M1) | Para dizer que `POST /pedidos` está rápido, qual medida e qual valor? | Tempo de resposta, menos de 200 ms. Sem estatística (média/percentil), sem carga, sem ponto de medição, sem origem do número. | correta mas superficial |
